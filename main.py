@@ -53,4 +53,9 @@ if st.button("Generate Quotes"):
     motivation = fetch_money_quotes()
     st.info(motivation)
 
+
+st.write("-----------------------------")
+
+st.write("🔹  Developed by [Wania Akram](https://github.com/waniaa00)  &nbsp;|&nbsp;  Secure & Smart  🔹")
+
     
